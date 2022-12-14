@@ -36,7 +36,7 @@ Console.Clear();
 int number;
 int possision = 3;
 
-System.Console.Write("enter number that contain 3 digids: ");
+System.Console.Write("enter number: ");
 number = getNumber();
 
 System.Console.WriteLine(number);
